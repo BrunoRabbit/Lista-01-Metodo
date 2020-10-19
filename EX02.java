@@ -11,9 +11,9 @@ public class EX02 {
         boolean retorno = isZero(num);
 
         if( retorno == true){
-            System.out.println("O valor é zero!!");
+            System.out.println("Valor Zero");
         }else{
-            System.out.println("O valor não é zero!!");
+            System.out.println("Valor diferente de Zero");
         }
         leia.close();
     }
